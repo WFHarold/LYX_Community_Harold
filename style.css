@@ -79,3 +79,12 @@ a:hover {
 #portfolio img:hover {
   transform: scale(1.02);
 }
+footer{
+  background: transparent;
+  border-top: 2px solid #00ffe0;
+  width: 100%;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  font-size: 1.5rem;
+}
